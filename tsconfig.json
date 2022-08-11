@@ -1,0 +1,6 @@
+{
+    "compileOnSave": true,
+    "ts-node": {
+        "esm": false
+    }
+}
